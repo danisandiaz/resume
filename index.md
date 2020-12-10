@@ -55,26 +55,26 @@ Visual Arts & French Minors <br>
  - Web Design: Adobe UX, Balsamiq, WIX, Wordpress
  - Languages: English, Spanish, French 
  - Miscellaneous: Adobe Suite, SAP, SPSS Analysis, SQLite
- 
- ## Additional Coursework
- 
- **University of Michigan**
- - Programming for Everybody (Getting started with Python)
- - Programming Foundations with JavaScript, HTML and CSS
- - Using Python to Access Web Data
 
- 
- **University of California, Davis**
- - SQL for Data Science 
- 
- **Princeton University**
- - Computer Science: Programming with a Purpose 
- 
-  **California Institute of the Arts**
- - Language of Design: Form and Meaning 
- - Web Design: Wireframes to Prototypes
- - Web Design: Strategy and Information Architecture
- - Visual Elements of User Interface Design
- 
+## Additional Coursework
+
+**University of Michigan**
+- Programming for Everybody (Getting started with Python)
+- Programming Foundations with JavaScript, HTML and CSS
+- Using Python to Access Web Data
+
+
+**University of California, Davis**
+- SQL for Data Science 
+
+**Princeton University**
+- Computer Science: Programming with a Purpose 
+
+ **California Institute of the Arts**
+- Language of Design: Form and Meaning 
+- Web Design: Wireframes to Prototypes
+- Web Design: Strategy and Information Architecture
+- Visual Elements of User Interface Design
+
  
  
