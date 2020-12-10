@@ -1,2 +1,2 @@
-# resume-main
-Resume in Markdown
+# resume
+A markdown take on my life story!
